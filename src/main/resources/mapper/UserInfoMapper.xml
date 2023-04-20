@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xzx.quickstart.mapper.UserInfoMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.xzx.quickstart.pojo.UserInfo">
+        <id column="id" property="id" />
+        <result column="created_by" property="createdBy" />
+        <result column="created_at" property="createdAt" />
+        <result column="updated_by" property="updatedBy" />
+        <result column="updated_at" property="updatedAt" />
+        <result column="user_id" property="userId" />
+        <result column="sex" property="sex" />
+        <result column="email" property="email" />
+        <result column="phone" property="phone" />
+        <result column="desc" property="desc" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, created_by, created_at, updated_by, updated_at, user_id, sex, email, phone, desc
+    </sql>
+
+</mapper>
