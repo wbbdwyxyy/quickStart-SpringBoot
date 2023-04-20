@@ -1,5 +1,8 @@
 package com.xzx.quickstart.service;
 
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.xzx.quickstart.dto.LoginDto;
+import com.xzx.quickstart.dto.PageParmDto;
 import com.xzx.quickstart.pojo.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
@@ -13,5 +16,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface IUserService extends IService<User> {
 
-    boolean mySave(User user);
+
+    boolean login(LoginDto dto);
+
+    Page<User> selectList(PageParmDto dto);
 }
