@@ -1,0 +1,75 @@
+2023-04-20 17:59:57.784  INFO 15136 --- [main] c.xzx.quickstart.QuickStartApplication   : Starting QuickStartApplication using Java 1.8.0_202 on LAPTOP-GF9KQ95V with PID 15136 (D:\Java_workSpace\project\quickStart\target\classes started by xzx2075654574 in D:\Java_workSpace\project\quickStart)
+2023-04-20 17:59:57.804  INFO 15136 --- [main] c.xzx.quickstart.QuickStartApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-20 17:59:58.782  INFO 15136 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2023-04-20 17:59:58.790  INFO 15136 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-20 17:59:58.790  INFO 15136 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-04-20 17:59:58.928  INFO 15136 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-20 17:59:58.929  INFO 15136 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1065 ms
+2023-04-20 17:59:59.717  INFO 15136 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-04-20 17:59:59.811  INFO 15136 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-20 17:59:59.818  INFO 15136 --- [main] c.xzx.quickstart.QuickStartApplication   : Started QuickStartApplication in 2.57 seconds (JVM running for 3.847)
+2023-04-20 18:01:39.586  INFO 15136 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-20 18:01:39.586  INFO 15136 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-20 18:01:39.587  INFO 15136 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-20 18:08:03.991  INFO 16152 --- [main] c.xzx.quickstart.QuickStartApplication   : Starting QuickStartApplication using Java 1.8.0_202 on LAPTOP-GF9KQ95V with PID 16152 (D:\Java_workSpace\project\quickStart\target\classes started by xzx2075654574 in D:\Java_workSpace\project\quickStart)
+2023-04-20 18:08:03.994  INFO 16152 --- [main] c.xzx.quickstart.QuickStartApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-20 18:08:04.707  INFO 16152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2023-04-20 18:08:04.713  INFO 16152 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-20 18:08:04.713  INFO 16152 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-04-20 18:08:04.802  INFO 16152 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-20 18:08:04.803  INFO 16152 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 773 ms
+2023-04-20 18:08:05.533  INFO 16152 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-04-20 18:08:05.621  INFO 16152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-20 18:08:05.628  INFO 16152 --- [main] c.xzx.quickstart.QuickStartApplication   : Started QuickStartApplication in 1.968 seconds (JVM running for 2.625)
+2023-04-20 18:08:16.241  INFO 16152 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-20 18:08:16.241  INFO 16152 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-20 18:08:16.241  INFO 16152 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-04-20 18:10:26.167  INFO 16152 --- [http-nio-8888-exec-6] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Starting...
+2023-04-20 18:10:26.560  INFO 16152 --- [http-nio-8888-exec-6] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Start completed.
+2023-04-20 18:34:26.732  INFO 16152 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Shutdown initiated...
+2023-04-20 18:34:26.735  INFO 16152 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Shutdown completed.
+2023-04-20 18:34:33.435  INFO 25516 --- [main] c.xzx.quickstart.QuickStartApplication   : Starting QuickStartApplication using Java 1.8.0_202 on LAPTOP-GF9KQ95V with PID 25516 (D:\Java_workSpace\project\quickStart\target\classes started by xzx2075654574 in D:\Java_workSpace\project\quickStart)
+2023-04-20 18:34:33.437  INFO 25516 --- [main] c.xzx.quickstart.QuickStartApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-20 18:34:34.258  INFO 25516 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2023-04-20 18:34:34.265  INFO 25516 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-20 18:34:34.265  INFO 25516 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-04-20 18:34:34.359  INFO 25516 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-20 18:34:34.359  INFO 25516 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 891 ms
+2023-04-20 18:34:35.141  INFO 25516 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-04-20 18:34:35.229  INFO 25516 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-20 18:34:35.236  INFO 25516 --- [main] c.xzx.quickstart.QuickStartApplication   : Started QuickStartApplication in 2.117 seconds (JVM running for 2.743)
+2023-04-20 18:44:44.403  INFO 30300 --- [main] c.xzx.quickstart.QuickStartApplication   : Starting QuickStartApplication using Java 1.8.0_202 on LAPTOP-GF9KQ95V with PID 30300 (D:\Java_workSpace\project\quickStart\target\classes started by xzx2075654574 in D:\Java_workSpace\project\quickStart)
+2023-04-20 18:44:44.405  INFO 30300 --- [main] c.xzx.quickstart.QuickStartApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-20 18:44:45.110  INFO 30300 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2023-04-20 18:44:45.116  INFO 30300 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-20 18:44:45.116  INFO 30300 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-04-20 18:44:45.203  INFO 30300 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-20 18:44:45.204  INFO 30300 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 765 ms
+2023-04-20 18:44:45.917  INFO 30300 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-04-20 18:44:46.010  INFO 30300 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-20 18:44:46.018  INFO 30300 --- [main] c.xzx.quickstart.QuickStartApplication   : Started QuickStartApplication in 1.928 seconds (JVM running for 2.497)
+2023-04-20 18:45:10.233  INFO 30300 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-20 18:45:10.234  INFO 30300 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-20 18:45:10.234  INFO 30300 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-04-20 18:45:10.337  INFO 30300 --- [http-nio-8888-exec-1] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Starting...
+2023-04-20 18:45:10.685  INFO 30300 --- [http-nio-8888-exec-1] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Start completed.
+2023-04-20 19:04:15.236  WARN 30300 --- [http-nio-8888-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-20 19:05:46.891  INFO 30300 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Shutdown initiated...
+2023-04-20 19:05:46.893  INFO 30300 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Shutdown completed.
+2023-04-20 19:05:50.783  INFO 23896 --- [main] c.xzx.quickstart.QuickStartApplication   : Starting QuickStartApplication using Java 1.8.0_202 on LAPTOP-GF9KQ95V with PID 23896 (D:\Java_workSpace\project\quickStart\target\classes started by xzx2075654574 in D:\Java_workSpace\project\quickStart)
+2023-04-20 19:05:50.785  INFO 23896 --- [main] c.xzx.quickstart.QuickStartApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-20 19:05:51.490  INFO 23896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2023-04-20 19:05:51.497  INFO 23896 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-20 19:05:51.497  INFO 23896 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-04-20 19:05:51.584  INFO 23896 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-20 19:05:51.584  INFO 23896 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 765 ms
+2023-04-20 19:05:52.314  INFO 23896 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-04-20 19:05:52.408  INFO 23896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-20 19:05:52.417  INFO 23896 --- [main] c.xzx.quickstart.QuickStartApplication   : Started QuickStartApplication in 1.962 seconds (JVM running for 2.568)
+2023-04-20 19:05:58.746  INFO 23896 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-20 19:05:58.746  INFO 23896 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-20 19:05:58.747  INFO 23896 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-20 19:05:58.800  INFO 23896 --- [http-nio-8888-exec-1] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Starting...
+2023-04-20 19:05:59.128  INFO 23896 --- [http-nio-8888-exec-1] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Start completed.
+2023-04-20 19:09:35.638  INFO 23896 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Shutdown initiated...
+2023-04-20 19:09:35.640  INFO 23896 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : DateHikariCP - Shutdown completed.
